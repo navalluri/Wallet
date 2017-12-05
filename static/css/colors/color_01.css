@@ -1,0 +1,249 @@
+.bg-theme {
+    background: #4caaf4;
+}
+.gradient-bg{
+    background-image: linear-gradient(to top, #1d6095 0%, #4caaf4 100%);
+}
+a,
+a:hover,
+a:active,
+a:focus {
+    color: #4caaf4;
+}
+blockquote.theme-blockquote{
+    background: #4caaf4;
+    border-left: 5px solid #1d6095;
+}
+/*=========================
+Navigation Color
+=========================== */
+.navbar-theme{
+    background: #4caaf4 !important;
+}
+nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover,
+.side .widget ul.link li a:hover,
+.side .widget ul.link li a:focus,
+.check-list li:before,
+ul.cart-list > li > h6 > a,
+.attr-nav > ul > li > a:hover,
+.attr-nav > ul > li > a:focus,
+nav.navbar-sidebar ul.nav li.dropdown.on > a,
+nav.navbar-sidebar .dropdown .megamenu-content .col-menu.on .title,
+nav.navbar-sidebar ul.nav li.dropdown ul.dropdown-menu li a:hover,
+nav.navbar ul.nav li.dropdown.on > a,
+nav.navbar.navbar-inverse ul.nav li.dropdown.on > a,
+nav.navbar-sidebar ul.nav li.dropdown.on ul.dropdown-menu li.dropdown.on > a,
+nav.navbar .dropdown .megamenu-content .col-menu.on .title,
+nav.navbar ul.nav > li > a:hover,
+nav.navbar ul.nav > li.active > a:hover,
+nav.navbar ul.nav li.active > a,
+nav.navbar li.dropdown ul.dropdown-menu > li a:hover{
+    color: #4caaf4;
+}
+nav.navbar.navbar-transparent ul.nav > li > a:hover,
+nav.navbar.no-background ul.nav > li > a:hover,
+nav.navbar ul.nav li.scroll.active > a,
+nav.navbar.navbar-dark ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
+nav.navbar ul.nav li.dropdown.on > a,
+nav.navbar-dark ul.nav li.dropdown.on > a{
+}
+@media(max-width:920px){
+    nav.navbar .dropdown .megamenu-content .col-menu ul > li > a:hover,
+    nav.navbar.navbar-dark .dropdown .megamenu-content .col-menu .title:hover{
+        color: #4caaf4 !important;
+    }
+}
+ul.cart-list > li.total > .btn{
+    border-color: #4caaf4;
+}
+
+nav.navbar li.dropdown ul.dropdown-menu{
+    border-top-color: #4caaf4 !important;
+}
+ul.cart-list > li.total > .btn,
+.attr-nav > ul > li > a span.badge,
+nav.navbar .share ul > li > a:hover,
+nav.navbar .share ul > li > a:focus{
+    background-color: #4caaf4;
+}
+
+ul.cart-list > li.total > .btn:hover,
+ul.cart-list > li.total > .btn:focus{
+    background-color: #1d6095 !important;
+}
+
+header.main-header .header-contact .contact-icon{
+    background: #4caaf4;
+}
+nav.navbar.bootsnav.navbar-theme ul.nav > li > a.main-link{
+    background-color: #1d6095 !important;
+}
+footer.main-footer .footer-widget ul li a:hover{
+    color: #4caaf4;
+}
+section.main-banner .banner-title h5{
+    color: #4caaf4;
+}
+.faq-item .faq-icon{
+    background: #4caaf4;
+}
+.panel-default>.panel-heading a:after {
+    color: #4caaf4;
+}
+section.auth .form-signin .form-control:focus
+{
+    border: 1px solid #4caaf4;
+}
+
+.portfolio a i:hover {
+    background-color: #4caaf4;
+}
+.portfolio a i {
+    color: #4caaf4;
+}
+.portfolio-content h6{
+    color: #4caaf4;
+}
+section.portfolio-section .portfolio-filter ul li.active a span{
+    color: #4caaf4;
+}
+.news-box .date {
+    background-color: #4caaf4;
+}
+.news-box .hover {
+    background-color: rgba(76, 170, 244, 0.75);
+}
+section.blog .sidebar .categories .list-group .list-group-item > .badge{
+    background-color: #4caaf4;
+}
+section.blog .sidebar .search-box .btn-search{
+    color: #4caaf4;
+}
+section.blog .comment-form .form-control:focus {
+    border: 1px solid #4caaf4;
+}
+.btn-theme-primary{
+    background: #4caaf4;
+}
+.btn-theme-primary-border{
+    color: #4caaf4;
+    border:2px solid #4caaf4;
+}
+.btn-theme-primary-border:hover,
+.btn-theme-primary-border:active,
+.btn-theme-primary-border:focus{
+    background: #4caaf4;
+}
+.btn-theme-white{
+    color: #4caaf4;
+}
+.btn-theme-white-border:hover,
+.btn-theme-white-border:active,
+.btn-theme-white-border:focus{
+    color: #4caaf4;
+}
+.btn-readmore{
+    color: #4caaf4;
+    border: 1px solid #4caaf4;
+}
+.btn-readmore:hover,
+.btn-readmore:active,
+.btn-theme-primary:focus{
+    background: #4caaf4;
+}
+.main-title span.divider{
+    border-color: #4caaf4 transparent transparent transparent;
+}
+.service-menu .active2 {
+    border-right: 4px solid #4caaf4;
+}
+.testimonials-wrapper i {
+    color: #4caaf4;
+}
+.sub-title .seperator{
+    background: #4caaf4;
+}
+.btn-download{
+    background: #4caaf4; 
+}
+.icon-box-icon.icon-box-icon-solid{
+    background: #4caaf4;
+}
+.icon-box-icon.icon-box-icon-border{
+    color: #4caaf4;
+    border: 2px solid #4caaf4;
+}
+
+.pricing-table .plan-title {
+    background-color: #4caaf4;
+}
+.pricing-table .plan-title:after {
+    border-color: #4caaf4 transparent transparent;
+}
+.pricing-table .plan-select a {
+    background-color: #4caaf4;
+}
+.pricing-table .plan-select a:hover {
+    background-color: #4caaf4;
+}
+.progress .progress-bar {
+    background-color: #4caaf4;
+}
+.image-box-one .image-holder{
+    background: #4caaf4;
+}
+.image-box-one .image-holder i {
+    color: #4caaf4;
+}
+.counter-item .conter-icon span{
+    color: #4caaf4;
+}
+section.call-to-action.action-gradient{
+    background-image: linear-gradient(to top, #1d6095 0%, #4caaf4 100%);
+}
+section.about-info .about-message{
+    background: #4caaf4;
+}
+section.about-info .about-message .person-message .quote-icon span{
+    color: #4caaf4;
+}
+.owl-theme .owl-controls .owl-page span {
+    border: 2px solid #4caaf4;
+}
+footer.main-footer ul.footer-social li a {
+    border: 1px solid #4caaf4;
+    color: #4caaf4;
+}
+footer.main-footer .newsletter-box .form-control:focus{
+    border: 1px solid #4caaf4;
+}
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover{
+    background: #4caaf4;
+    border-color:#4caaf4;
+}
+.pagination > li a{
+    color: #4caaf4;
+}
+.contact-holder .contact-form .form-control:focus {
+    border: 1px solid #4caaf4;
+}
+.request-holder .quote-from .form-control:focus {
+    border: 1px solid #4caaf4;
+}
+section.single-portfolio .portfolio-meta-item .icon{
+    color: #4caaf4;
+}
+#page-loader {
+    background: #4caaf4;
+}
+.team-social-nav a {
+    background: #4caaf4;
+}
+.team-member:hover .team-member-info {
+    background: #4caaf4;
+}
